@@ -1,4 +1,4 @@
-- 👋 Hi, I’m James Wyatt, Army Veteran, and life long learner 
+- 👋 Hi, I’m James Wyatt, Army Veteran, and Life-long Learner 
 - 👀 I’m interested in Web Development and want to learn more about App Development 
 - 🌱 I’m currently learning Java and Spring
 - 💞️ I’m looking to collaborate on ...
