@@ -1,7 +1,7 @@
-- 👋 Hi, I’m James Wyatt, Army Veteran, and Life-long Learner 
-- 👀 I’m interested in Web Development and want to learn more about App Development 
+ 👋 Hi ther, I’m James, Army Veteran, and Life-long Learner!!
 - 🌱 I’m currently learning Java and Spring
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Development and want to learn more about App Development 
+- 💞️ I have worked on Python, Django, Flask, 
 - 📫 How to reach me jamesrwyatt35@gmail.com
 
 <!---
