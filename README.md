@@ -1,4 +1,4 @@
- 👋 Hi there, I’m James Wyatt!!
+ 👋 Hi there, I’m James!!
 - 🌱 I’m currently learning Java and Spring and going through a coding BootCamp!
 - 👀 I’m interested in Web Development and want to learn more about App Development. 
 - 💞️ I have worked on Python, Django, Flask, Java, Spring, MySQL.
