@@ -1,5 +1,5 @@
  👋 Hi there, I’m James!!
-- 🌱 I’m currently learning Java and Spring and going through a coding BootCamp!
+- 🌱 I’m currently learning Javascript and React and going through a coding BootCamp!
 - 👀 I’m interested in Web Development and want to learn more about App Development. 
 - 💞️ I have worked on Python, Django, Flask, Java, Spring, MySQL, JavaScript, React!
 - ✨ I am currently working on Giflty App. Gift registry application that allows you save urls for items you want and share it with others!
