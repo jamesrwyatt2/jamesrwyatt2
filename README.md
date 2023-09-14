@@ -1,11 +1,11 @@
  👋 Hi there, I’m James Wyatt!!
-- 🌱 I’m currently working as a Software Engineer. Here I use API and Javascript to create frontend charts to display data. 
-- 👀 I’m enjoy working on Java Spring Boot, and am learning Angular to with it.
-- 💞️ I have worked on Python, Django, Flask, Java, Spring, MySQL, JavaScript, React, Node.js!
-- ✨ I am currently working on Giflty App. Gift registry application that allows you save urls for items you want and share it with others! Check it out at Giftlyapp.com!
-- 👍 I am open to work in Southern California, North Carilona or remote.
+- 🌱 I’m working as a Software Developer, developing flight scheduling applications for the Air Force.
+- 👀 I specialize in Java Spring Boot and Javascript React with MySQL or PostgreSQL.
+- 💞️ I have worked on Greenfield to Enterprize level applications! I also have experience developing in Salesforce LWC and Apex.  
+- ✨ I am currently working on Giflty App. Gift registry application that allows you to save URLs for items you want and share them with others! Check it out at Giftlyapp.com!
+- 👍 I am open to working remotely in Raliegh, North Carolina.
 - 📫 How to reach me jamesrwyatt35@gmail.com
-- 🌠Fun Fact: I served in the Army for 7 years as a Medic!!
+- 🌠Fun Fact: I served in the Army for seven years as a Medic!!
 
 <!---
 jamesrwyatt2/jamesrwyatt2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
