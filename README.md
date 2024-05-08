@@ -1,16 +1,16 @@
  👋 Hi there, I’m James!!
 - 🌱 I’m working as a Software Developer, developing flight scheduling applications for the US Air Force.
   
-Specialties 
-# Full Stack 
+# Specialties 
+## Full Stack 
 - ✨ Spring Boot, React, Angular, MySQL, PostgreSQL
 - 👀 I also have experience developing in Salesforce LWC and Apex.
 
-#Mobile
+## Mobile
 - ✨ React Native
 - Number Guessing Game REPO: https://github.com/jamesrwyatt2/guess-number-app-react-native
 
-Experiance 
+## Experiance 
 - 💞️ I have worked on Greenfield to Enterprize level applications! I also have experience developing in Salesforce LWC and Apex.  
 - 👍 I am open to working remotely in Raliegh, North Carolina.
 - 📫 How to reach me jamesrwyatt35@gmail.com
