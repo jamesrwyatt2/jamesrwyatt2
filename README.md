@@ -2,11 +2,11 @@
 🌱 I’m working as a Software Developer, developing flight scheduling applications for the US Air Force.
   
 # Specialties 
-## Full Stack 
+## Full-Stack Developer 
 - ✨ Spring Boot, React, Angular, MySQL, PostgreSQL
 - 👀 I also have experience developing in Salesforce LWC and Apex.
 
-## Mobile
+## Mobile Developer
 - ✨ React Native
  - Number Guessing Game REPO: https://github.com/jamesrwyatt2/guess-number-app-react-native
 
